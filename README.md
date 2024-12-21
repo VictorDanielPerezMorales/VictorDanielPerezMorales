@@ -4,6 +4,7 @@
 - ⚡ Pueden contactarme directamente a traves de mi correo hoalagg8@gmail.com.cu
 - ***Mis proyectos son:
 - https://github.com/VictorDanielPerezMorales/Proyecto-Final-de-Programacion
+- https://github.com/VictorDanielPerezMorales/Experimental-Math
 
 <!---
 VictorDanielPerezMorales/VictorDanielPerezMorales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
